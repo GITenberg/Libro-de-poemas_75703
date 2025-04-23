@@ -1,0 +1,39 @@
+_repo: Libro-de-poemas_75703
+_version: 0.0.1
+creator:
+  author:
+    agent_name: García Lorca, Federico
+    aliases:
+    - Garcia Lorca, Federico
+    - Lorca, Federico García
+    - Lorca, F. G.
+    - Garcia Lorca, Frederico
+    birthdate: 1898
+    deathdate: 1936
+    gutenberg_agent_id: '56772'
+    url: http://www.gutenberg.org/2009/agents/56772
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca
+    - https://es.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca
+description: ''
+gutenberg_issued: '2025-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75703'
+language: es
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=osu.32435007767171&seq=8
+pgterms:marc905: 20241017051126lorca
+pgterms:marc906: '1921'
+pgterms:marc907: ES
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aMadrid :$bImprenta Maroto, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish poetry -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: Libro de poemas
+url: http://www.gutenberg.org/ebooks/75703
