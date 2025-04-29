@@ -1,5 +1,8 @@
 _repo: Libro-de-poemas_75703
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75703-h/images/cover.jpg
 creator:
   author:
     agent_name: García Lorca, Federico
@@ -16,6 +19,8 @@ creator:
     - https://en.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca
     - https://es.wikipedia.org/wiki/Federico_Garc%C3%ADa_Lorca
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75703#Libro-de-poemas
 gutenberg_issued: '2025-03-24'
 gutenberg_type: Text
 identifiers:
